@@ -1,0 +1,65 @@
+body {
+    width: 300px;
+    height: 300px;
+    background-color: #FFF5E4; /* Light Gray */
+    border-radius: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #850E35; /* Dark Gray */
+}
+
+.css-input {
+    padding: 5px;
+    font-size: 13px;
+    border-width: 3px;
+    border-color: #2c3e50; /* Midnight Blue */
+    background-color: #f8d9a2; /* Clouds Gray */
+    color: #34495e; /* Wet Asphalt */
+    border-style: double;
+    width: 207px;
+    border-radius: 50px;
+    text-shadow: 0px 0px 0px rgba(66,66,66,.68);
+}
+
+.css-input:focus {
+    outline: none;
+}
+
+.btn {
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14.5px;
+    background: #850E35; /* Belize Hole Blue */
+    padding: 5px 10px;
+    border: solid #2c3e50 2px; /* Midnight Blue */
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #FFC4C4; /* Belize Hole Darker Blue */
+    text-decoration: none;
+    color: #000;
+}
+
+.div1 {
+    padding: 10px;
+    border: 2px solid #333333; /* Dark Gray */
+    margin-top: 13px;
+    font-size: larger;
+    color: #000;
+}
+
+hr {
+    border-top: 4px solid #EE6983; /* Pumpkin Orange */
+    width: 136px;
+    border-style: dotted;
+    margin-bottom: 7px;
+    border-color: #EE6983; /* Pumpkin Orange */
+}
+#gifimg{
+    width: 300px;
+}
